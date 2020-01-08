@@ -105,3 +105,17 @@ form {
     font-family: Arial, Helvetica Neue Helvetica, sans-serif;
 
 }
+
+
+div.card {
+        position: fixed;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        background-color: #ffffff;
+        left: 300px;
+        top: 270px;
+        right: 350px;
+        font-family: Arial, Helvetica Neue Helvetica, sans-serif;
+}
